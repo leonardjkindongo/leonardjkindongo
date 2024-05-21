@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @astro-rna
+- 👋 Hi, I’m Jordan
 - 👀 I’m interested in learning Python for Cybersecurity
 - 🌱 I’m currently learning Python fundamentals
 - 💞️ I’m looking to collaborate on any hacking project for beginners
