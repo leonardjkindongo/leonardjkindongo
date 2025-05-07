@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Jordan
-- 👀 I’m interested in learning Python for Cybersecurity
-- 🌱 I’m currently learning Python fundamentals
-- 💞️ I’m looking to collaborate on any hacking project for beginners
+- 👀 I’m interested in learning Network Programming ans Network Security
+- 🌱 I’m currently learning Socket Programming
+- 💞️ I’m looking to collaborate on any OpSec projects
 - 📫 Reach me on instagram @jordan21rna or indongoljk@protonmail.com
 
 <!---
